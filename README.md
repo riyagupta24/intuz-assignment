@@ -1,4 +1,4 @@
-# run comand
+# Run command
 
 To run UI -
   cd client
